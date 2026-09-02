@@ -1,4 +1,4 @@
-n = int(input("Enter a number: "))
+n = int(input("Enter the number: "))
 
 fact = 1
 
